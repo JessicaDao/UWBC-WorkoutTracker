@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+
+}
+h1, h3 {
+    text-align: center;
+}
+#add {
+    display: block;
+    text-align: center;
+}
